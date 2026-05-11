@@ -1,5 +1,5 @@
 ## Imperial44 is a compact split mechanical keyboard with three thumb keys on each half and support for hot-swap encoders on either side
-*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the wired Imperial44 v4, the Wireless Edition, and the Wireless Metal Edition*
+*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the wired, the Wireless Edition, and the Wireless Metal Edition*
 
 ![Imperial44 v4](images/01.jpg)
 
@@ -21,13 +21,13 @@ Imperial44 v4 combines futuristic styling, a compact form factor, and practical 
 PCB and schematic can be found in the project materials and the product pages below
 
 ### BOM
-#### Main case
+#### Imperial44 v4
 | Components | Quantity (pcs) |
 | --- | ---: |
-| Switchplate + thumb keys + MCU holder PCBs | 1 |
-| RP2040 Zero MCU | 2 |
-| MX Hotswap sockets | 60 |
-| 1N4148W Diodes (SOD-123) | 60 |
+| PCB board | 1 |
+| RP2040 MCU, LQFN-56| 2 |
+| MX Hotswap sockets | 44 |
+| 1N4148W Diodes (SOD-123) | 44 |
 | Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
 | Female Header Sockets: 11 Pins, 2.54mm, 90 degree | 2 |
 | Female Header Sockets: 9 Pins, 2.54mm, 90 degree | 2 |
@@ -41,7 +41,7 @@ PCB and schematic can be found in the project materials and the product pages be
 | Magnets (5х10х2mm) | 4 |
 | 3M bumpons (8mm) | 4 |
 
-#### Encoder module
+#### Imperial44 v4 – Wireless Edition
 | Components | Quantity (pcs) |
 | --- | ---: |
 | Encoder PCB | 1 |
@@ -53,27 +53,29 @@ PCB and schematic can be found in the project materials and the product pages be
 | Magnets (5х10х2mm) | 2 |
 | 3M bumpons (8mm) | 2 |
 
-### Availability
-- [Imperial44 v4](https://eh.works/shop/tproduct/767494027-288898837682-imperial44-v4)
-- [Imperial44 v4 – Wireless Edition](https://eh.works/shop/tproduct/767494027-873306030502-imperial44-v4-wireless-edition)
-- [Imperial44 v4 – Wireless Metal Edition](https://eh.works/shop/tproduct/767494027-725274734542-imperial44-v4-wireless-metal-edition)
-
 ## License 
 
 The files in this repository are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ## Useful links
 
-- [Imperial44 v4 case for 3D printing (STL)](stl)
-- [Imperial44 v4 case model for editing (STEP)](step)
-- [Imperial44 v4 circuit schematic](https://oshwlab.com/yuriiq/hpdv2)
-
+- Imperial44 v4:
+  - [Case for 3D printing (STL)](stl/wired)
+  - [Case model for editing (STEP)](step/wired)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  
+- Imperial44 v4 – Wireless Edition:
+  - [Case for 3D printing (STL)](stl/wireless)
+  - [Case model for editing (STEP)](step/wireless)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  - [Case model for Metal Edition (CNC)](cnc/wireless)
+  
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
 - Source code: 
     - wired [QMK](https://github.com/ergohaven/vial-qmk)
     - wireless [RMK](https://github.com/ergohaven/rmk-eh)
-    - [ZMK](https://github.com/ergohaven/ergohaven-zmk)
+    - wireless [ZMK](https://github.com/ergohaven/ergohaven-zmk)
 
 ## Availability
 The complete keyboard (not a diy kit!) is available for purchase at [eh.industries](https://eh.industries/)
