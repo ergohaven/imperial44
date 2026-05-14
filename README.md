@@ -7,15 +7,22 @@
 Imperial44 v4 combines futuristic styling, a compact form factor, and practical ergonomics. The wired board focuses on a feature-rich daily setup, the Wireless Edition adds Bluetooth portability, and the Wireless Metal Edition brings the same idea into a premium aluminum body.
 
 ## Features
-- 44 programmable keys and 15 layers
-- Hot-swap MX switch support
+- Split, ergonomic design
+- 44 fully programmable keys, 15 additional layers for all your tasks
 - Optional encoder installation on either half
-- OLED display and active layer indicator on the wired v4
-- Bluetooth connectivity for up to 6 devices on wireless editions
-- ZMK firmware for wireless editions and QMK/Vial for the wired board
-- 120 mAh battery with up to 3 weeks of use on wireless editions
-- Magnetic mounting ring for the Universal Tilt System
-- Type-C connection and cable included
+- Hotswappable PCB (MX sockets) 
+
+### Wired version 
+- Powered by RP2040 and QMK firmware for the wired version
+- Type-C output for connection between halves in the wired version
+- Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
+- OLED display and active layer indicator
+
+### Wereless Edition 
+- Powered by nrf52840 and RMK/ZMK firmware
+- Bluetooth connectivity for up to 6 devices
+- 120 mAh battery with up to 3 weeks of use
+- Type-C connection
 
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found in the project materials and the product pages below
