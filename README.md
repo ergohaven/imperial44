@@ -25,16 +25,17 @@ Imperial44 v4 combines futuristic styling, a compact form factor, and practical 
 - Type-C connection
 
 ## This repo contains all files related to this keyboard
-PCB and schematic can be found in the project materials and the product pages below
+PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 
 ### BOM
 #### Imperial44 v4
+
 | Components | Quantity (pcs) |
 | --- | ---: |
 | Imperial44 v4 PCB | 1 |
-| RP2040 MCU, LQFN-56| 2 |
+| RP2040 MCU, LQFN-56 | 2 |
 | MX Hotswap sockets | 44 |
-| 1N4148W Diodes (SOD-523F) | 44 |
+| 1N4148W Diodes SOD-523F | 44 |
 | Resistor 0402 5.1 kOm | 8 |
 | Resistor 0402 1 kOm | 2 |
 | Resistor 0402 200 Om | 2 |
@@ -54,28 +55,28 @@ PCB and schematic can be found in the project materials and the product pages be
 | 3M bumpons (8mm) | 8 |
 
 #### Imperial44 v4 – Wireless Edition
+
 | Components | Quantity (pcs) |
 | --- | ---: |
-| Imperial44 v4 PCB | 1 |
-| RP2040 MCU, LQFN-56| 2 |
+| Imperial44 Wireless Edition PCB | 1 |
+| E73-2G4M08S1C, Module Bluetooth Modules | 2 |
 | MX Hotswap sockets | 44 |
-| 1N4148W Diodes (SOD-523F) | 44 |
-| Resistor 0402 5.1 kOm | 8 |
-| Resistor 0402 1 kOm | 2 |
-| Resistor 0402 200 Om | 2 |
-| Resistor 0402 27 Om | 4 |
-| Capacitor 0402 1 nF | 4 |
-| Capacitor 0402 15 pF | 4 |
-| Capacitor 0402 100 nF | 10 |
-| Capacitor 0402 2.2 uF | 2 |
+| 1N4148W Diodes SOD-523F | 44 |
+| B5819WS Diode Schottky SOD-323 | 2 |
+| Resistor 0402 5.1 kOm | 6 |
+| Resistor 0402 100 kOm | 2 |
+| Resistor 0402 806 kOm | 2 |
+| Resistor 0402 2 MOm | 2 |
+| Resistor 0402 10 kOm | 2 |
+| Capacitor 0402 4.7 uF | 4 |
 | SMD LED SK6803MINI-E-001 | 2 |
-| P-Channel MOSFETs SOT-23 JSM2301S | 2 |
-| SMD Tactile Switches TS-1187F-1526 | 4 |
-| LDO SOT-23-3 662K | 2 |
-| SpiFlash W25Q32JVSSIQ | 2 |
-| SMD USB Connectors USB-TYPE-C-021 | 2 |
+| P-Channel MOSFETs SOT-23 JSM2301S | 4 |
+| MSK12CO2-SZ, SMD Slide Switches | 2 |
+| LN2054Y42AMR, Linear Li-Ion Battery Charger SOT-23-5 | 2 |
+| ZX-SH1.0-2PWT, SMD WIre To Board | 2 |
+| AP2112K-3.3TRG1, LDO REGULATOR SOT-25-5 | 2 |
 | SMD USB Connectors USB-TYPE-C-018 | 2 |
-| SMD Crystal Resonator 12MHz XXHCCLNANF-12.000000MHZ| 2 |
+| TS5235A 250gf 025, SMD Tactile Switches | 2 |
 | 3M bumpons (8mm) | 8 |
 
 ## License 
