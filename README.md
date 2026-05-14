@@ -60,6 +60,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 | SMD USB Connectors USB-TYPE-C-018 | 2 |
 | SMD Crystal Resonator 12MHz XXHCCLNANF-12.000000MHZ| 2 |
 | 3M bumpons (8mm) | 8 |
+| MagSafe ring (optional) | 2 |
 
 #### Imperial44 v4 – Wireless Edition
 
@@ -85,6 +86,8 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 | SMD USB Connectors USB-TYPE-C-018 | 2 |
 | TS5235A 250gf 025, SMD Tactile Switches | 2 |
 | 3M bumpons (8mm) | 8 |
+| MagSafe ring (optional) | 2 |
+| Plexiglass window for case (optional) | 2 |
 
 ## License 
 
