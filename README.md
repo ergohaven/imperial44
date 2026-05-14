@@ -31,34 +31,52 @@ PCB and schematic can be found in the project materials and the product pages be
 #### Imperial44 v4
 | Components | Quantity (pcs) |
 | --- | ---: |
-| PCB board | 1 |
+| Imperial44 v4 PCB | 1 |
 | RP2040 MCU, LQFN-56| 2 |
 | MX Hotswap sockets | 44 |
-| 1N4148W Diodes (SOD-123) | 44 |
-| Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
-| Female Header Sockets: 11 Pins, 2.54mm, 90 degree | 2 |
-| Female Header Sockets: 9 Pins, 2.54mm, 90 degree | 2 |
-| Socket SH1.0 5 Pins, 1.00mm | 4 |
-| Cable connector SH1.0 5 Pins, 1mm, 100mm, double head | 2 |
-| 1 - 100 kOhm resistors (0805) | 2 |
-| USB Type-C daughterboard: 1.6mm thick | 2 |
-| M2x4 Screws | 32 |
-| M3x5 Inserts | 10 |
-| M3x4 Screws | 10 |
-| Magnets (5х10х2mm) | 4 |
-| 3M bumpons (8mm) | 4 |
+| 1N4148W Diodes (SOD-523F) | 44 |
+| Resistor 0402 5.1 kOm | 8 |
+| Resistor 0402 1 kOm | 2 |
+| Resistor 0402 200 Om | 2 |
+| Resistor 0402 27 Om | 4 |
+| Capacitor 0402 1 nF | 4 |
+| Capacitor 0402 15 pF | 4 |
+| Capacitor 0402 100 nF | 10 |
+| Capacitor 0402 2.2 uF | 2 |
+| SMD LED SK6803MINI-E-001 | 2 |
+| P-Channel MOSFETs SOT-23 JSM2301S | 2 |
+| SMD Tactile Switches TS-1187F-1526 | 4 |
+| LDO SOT-23-3 662K | 2 |
+| SpiFlash W25Q32JVSSIQ | 2 |
+| SMD USB Connectors USB-TYPE-C-021 | 2 |
+| SMD USB Connectors USB-TYPE-C-018 | 2 |
+| SMD Crystal Resonator 12MHz XXHCCLNANF-12.000000MHZ| 2 |
+| 3M bumpons (8mm) | 8 |
 
 #### Imperial44 v4 – Wireless Edition
 | Components | Quantity (pcs) |
 | --- | ---: |
-| Encoder PCB | 1 |
-| Encoder EC11 | 1 |
-| Encoder cap | 1 |
-| Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree | 1 |
-| 1N4148W Diodes (SOD-123) | 1 |
-| LED SK6812 mini-e | 1 |
-| Magnets (5х10х2mm) | 2 |
-| 3M bumpons (8mm) | 2 |
+| Imperial44 v4 PCB | 1 |
+| RP2040 MCU, LQFN-56| 2 |
+| MX Hotswap sockets | 44 |
+| 1N4148W Diodes (SOD-523F) | 44 |
+| Resistor 0402 5.1 kOm | 8 |
+| Resistor 0402 1 kOm | 2 |
+| Resistor 0402 200 Om | 2 |
+| Resistor 0402 27 Om | 4 |
+| Capacitor 0402 1 nF | 4 |
+| Capacitor 0402 15 pF | 4 |
+| Capacitor 0402 100 nF | 10 |
+| Capacitor 0402 2.2 uF | 2 |
+| SMD LED SK6803MINI-E-001 | 2 |
+| P-Channel MOSFETs SOT-23 JSM2301S | 2 |
+| SMD Tactile Switches TS-1187F-1526 | 4 |
+| LDO SOT-23-3 662K | 2 |
+| SpiFlash W25Q32JVSSIQ | 2 |
+| SMD USB Connectors USB-TYPE-C-021 | 2 |
+| SMD USB Connectors USB-TYPE-C-018 | 2 |
+| SMD Crystal Resonator 12MHz XXHCCLNANF-12.000000MHZ| 2 |
+| 3M bumpons (8mm) | 8 |
 
 ## License 
 
