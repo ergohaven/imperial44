@@ -1,10 +1,13 @@
 ## Imperial44 is a compact split mechanical keyboard with three thumb keys on each half and support for hot-swap encoders on either side
 *Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the wired, the Wireless Edition, and the Wireless Metal Edition*
 
-![Imperial44 v4](images/01.jpg)
+![Imperial44 v4](images/imp44v4.png)
 
 ## Design philosophy
 Imperial44 v4 combines futuristic styling, a compact form factor, and practical ergonomics. The wired board focuses on a feature-rich daily setup, the Wireless Edition adds Bluetooth portability, and the Wireless Metal Edition brings the same idea into a premium aluminum body.
+
+![Imperial44 WE](images/imp44-we.png)
+![Imperial44 ME](images/imp44-me.png)
 
 ## Features
 - Split, ergonomic design
@@ -18,11 +21,15 @@ Imperial44 v4 combines futuristic styling, a compact form factor, and practical 
 - Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
 - OLED display and active layer indicator
 
+![Imperial44 v4 Layouts]images/Imperial44_en.png)
+
 ### Wereless Edition 
 - Powered by nrf52840 and RMK/ZMK firmware
 - Bluetooth connectivity for up to 6 devices
 - 120 mAh battery with up to 3 weeks of use
 - Type-C connection
+
+![Imperial44 WE Layouts](images/Imperial_v4_En.png)
 
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
