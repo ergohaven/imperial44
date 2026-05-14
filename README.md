@@ -21,7 +21,7 @@ Imperial44 v4 combines futuristic styling, a compact form factor, and practical 
 - Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
 - OLED display and active layer indicator
 
-![Imperial44 v4 Layouts]images/Imperial44_en.png)
+![Imperial44 v4 Layouts](images/Imperial44_en.png)
 
 ### Wereless Edition 
 - Powered by nrf52840 and RMK/ZMK firmware
