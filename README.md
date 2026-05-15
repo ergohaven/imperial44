@@ -1,8 +1,6 @@
-# Imperial44
+## Imperial44 is a compact split mechanical keyboard with three thumb keys on each half and support for hot-swappable encoders on either side
 
-Imperial44 is a compact split mechanical keyboard with three thumb keys on each half and support for hot-swappable encoders on either side
-
-*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the Wired Edition, the Wireless Edition, and the Wireless Metal Edition.*
+*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the Wired Edition, the Wireless Edition, and the Wireless Metal Edition*
 
 ![Imperial44 v4](images/imp44v4.png)
 
